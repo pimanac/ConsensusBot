@@ -1,0 +1,3 @@
+Consensusbot is a chat bot that will help you get along.
+
+placeholder for better readme...

@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ConsensusBot.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IrcHost" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">irc.example.com</Value>
+    </Setting>
+    <Setting Name="IrcUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">consensusbot</Value>
+    </Setting>
+    <Setting Name="IrcPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">consensusbot</Value>
+    </Setting>
+    <Setting Name="IrcRoom" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">general</Value>
+    </Setting>
+    <Setting Name="SlackToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">tokendata</Value>
+    </Setting>
+    <Setting Name="RedditUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">consensusbot</Value>
+    </Setting>
+    <Setting Name="RedditPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">consensusbot</Value>
+    </Setting>
+    <Setting Name="RedditSubreddit" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">consensusbot</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
